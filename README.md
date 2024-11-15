@@ -19,4 +19,4 @@
 ## Demo Link
 
 You can view the project demo using the following link:  
-[Project Demo](https://drive.google.com/file/d/1rv7NV-MuHDUCt6kRjN2AA9UMWCRU7PrP/view?usp=drive_link)
+[Project Demo](https://drive.google.com/drive/folders/1N1Qc_f74HzOSW1pw_BS-0Rgx1qBrlniX?usp=sharing)
